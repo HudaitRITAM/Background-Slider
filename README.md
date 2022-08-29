@@ -5,7 +5,7 @@ after click the right arrow button its take usr to next image like slides.And cl
 <br>CSS
 <br>HTML
 <br>JavaScript
-
+<br>cdnjs - Font-awesome
 ### Output ###
 ![Alt text](1.png?raw=true "landingpage")
 <br>
